@@ -1,2 +1,2 @@
 # HackTheBox
-walk through of hackthebox boxes
+walkthrough of interesting hackthebox boxes
